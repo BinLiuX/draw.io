@@ -205,7 +205,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dlKfZmpZwxfihRRVxZ_t-91" value="生成范文&lt;div&gt;gen_ans&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="dlKfZmpZwxfihRRVxZ_t-91" value="生成范文&lt;div&gt;gen_ans&lt;/div&gt;&lt;div&gt;(包含引用素材)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dlKfZmpZwxfihRRVxZ_t-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="dlKfZmpZwxfihRRVxZ_t-99" target="dlKfZmpZwxfihRRVxZ_t-102" edge="1">
